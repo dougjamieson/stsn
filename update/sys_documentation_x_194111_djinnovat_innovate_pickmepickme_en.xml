@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="pickmepickme" label="Pick one" language="en" table="x_194111_djinnovat_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pickmepickme</element>
+            <help/>
+            <hint/>
+            <label>Pick one</label>
+            <language>en</language>
+            <name>x_194111_djinnovat_innovate</name>
+            <plural>Pick ones</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:39:09</sys_created_on>
+            <sys_id>9c75883e4fb013005b6922788310c704</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Pick one</sys_name>
+            <sys_package display_value="DJInnovate" source="x_194111_djinnovat">992e37a24f7013005b6922788310c719</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DJInnovate">992e37a24f7013005b6922788310c719</sys_scope>
+            <sys_update_name>sys_documentation_x_194111_djinnovat_innovate_pickmepickme_en</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:39:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

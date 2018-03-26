@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Innovate" max_length="40" name="x_194111_djinnovat_innovate" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Descccc" max_length="1000" name="descccc" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="twooo" label="Pick one" mandatory="true" max_length="40" name="pickmepickme" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Oneee"/>
+                <element label="Choice 2" sequence="1" value="twooo"/>
+                <element label="2.5" sequence="2" value="ggg"/>
+                <element label="Choice 3" sequence="3" value="Three3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short desc" mandatory="true" max_length="125" name="shortdesc" type="string"/>
+    </element>
+</database>

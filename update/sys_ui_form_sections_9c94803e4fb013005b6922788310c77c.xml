@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9c94803e4fb013005b6922788310c77c" sys_domain="global" table="x_194111_djinnovat_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d094803e4fb013005b6922788310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_194111_djinnovat_innovate" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">9c94803e4fb013005b6922788310c77c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">67e34cfa4fb013005b6922788310c7d0</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc94803e4fb013005b6922788310c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_194111_djinnovat_innovate" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">9c94803e4fb013005b6922788310c77c</sys_ui_form>
+            <sys_ui_section caption="New Sectionnnn" display_value="New Sectionnnn" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">5094803e4fb013005b6922788310c77c</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:50:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>151800be4fb013005b6922788310c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_194111_djinnovat_innovate" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">9c94803e4fb013005b6922788310c77c</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">591800be4fb013005b6922788310c78a</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:50:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:55:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe3948be4fb013005b6922788310c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_194111_djinnovat_innovate" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">9c94803e4fb013005b6922788310c77c</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">723948be4fb013005b6922788310c767</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:55:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_194111_djinnovat_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c94803e4fb013005b6922788310c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_194111_djinnovat_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DJInnovate" source="x_194111_djinnovat">992e37a24f7013005b6922788310c719</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DJInnovate">992e37a24f7013005b6922788310c719</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9c94803e4fb013005b6922788310c77c</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:35:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="newviewww" name="newviewww">e3e34cfa4fb013005b6922788310c7cd</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

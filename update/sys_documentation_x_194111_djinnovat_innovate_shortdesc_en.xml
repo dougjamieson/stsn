@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="shortdesc" label="Short desc" language="en" table="x_194111_djinnovat_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>shortdesc</element>
+            <help/>
+            <hint/>
+            <label>Short desc</label>
+            <language>en</language>
+            <name>x_194111_djinnovat_innovate</name>
+            <plural>Short descs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:48:44</sys_created_on>
+            <sys_id>aca7c87e4fb013005b6922788310c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short desc</sys_name>
+            <sys_package display_value="DJInnovate" source="x_194111_djinnovat">992e37a24f7013005b6922788310c719</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DJInnovate">992e37a24f7013005b6922788310c719</sys_scope>
+            <sys_update_name>sys_documentation_x_194111_djinnovat_innovate_shortdesc_en</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:48:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

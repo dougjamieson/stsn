@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="My Idea" section_id="591800be4fb013005b6922788310c78a" sys_domain="global" table="x_194111_djinnovat_innovate" version="3" view="newviewww">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shortdesc</element>
+            <position>0</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:55:43</sys_created_on>
+            <sys_id>7a3988be4fb013005b6922788310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">591800be4fb013005b6922788310c78a</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:55:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>descccc</element>
+            <position>1</position>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:55:43</sys_created_on>
+            <sys_id>fa3988be4fb013005b6922788310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_194111_djinnovat_innovate" sys_domain="global" view="e3e34cfa4fb013005b6922788310c7cd">591800be4fb013005b6922788310c78a</sys_ui_section>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:55:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_194111_djinnovat_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Admin</sys_created_by>
+            <sys_created_on>2018-03-15 18:50:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>591800be4fb013005b6922788310c78a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DJInnovate" source="x_194111_djinnovat">992e37a24f7013005b6922788310c719</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DJInnovate">992e37a24f7013005b6922788310c719</sys_scope>
+            <sys_update_name>sys_ui_section_591800be4fb013005b6922788310c78a</sys_update_name>
+            <sys_updated_by>Admin</sys_updated_by>
+            <sys_updated_on>2018-03-15 18:50:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="newviewww" name="newviewww">e3e34cfa4fb013005b6922788310c7cd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

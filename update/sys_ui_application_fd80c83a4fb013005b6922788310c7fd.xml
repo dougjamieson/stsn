@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>InnovateDJ</name>
+        <order>12</order>
+        <roles>x_194111_djinnovat.innovate_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>Admin</sys_created_by>
+        <sys_created_on>2018-03-15 18:17:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fd80c83a4fb013005b6922788310c7fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>InnovateDJ</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DJInnovate" source="x_194111_djinnovat">992e37a24f7013005b6922788310c719</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DJInnovate">992e37a24f7013005b6922788310c719</sys_scope>
+        <sys_update_name>sys_ui_application_fd80c83a4fb013005b6922788310c7fd</sys_update_name>
+        <sys_updated_by>Admin</sys_updated_by>
+        <sys_updated_on>2018-03-15 19:23:27</sys_updated_on>
+    </sys_ui_application>
+</record_update>
