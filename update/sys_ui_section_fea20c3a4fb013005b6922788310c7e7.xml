@@ -5,29 +5,29 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>Admin</sys_created_by>
-            <sys_created_on>2018-03-15 18:48:44</sys_created_on>
-            <sys_id>60a70c7e4fb013005b6922788310c7c8</sys_id>
+            <sys_created_on>2018-03-26 18:28:49</sys_created_on>
+            <sys_id>009c68d24fc113005b6922788310c7b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_194111_djinnovat_innovate" sys_domain="global" view="Default view">fea20c3a4fb013005b6922788310c7e7</sys_ui_section>
             <sys_updated_by>Admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 18:48:44</sys_updated_on>
+            <sys_updated_on>2018-03-26 18:28:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ShortDesc</element>
+            <element>.split</element>
             <position>1</position>
             <sys_created_by>Admin</sys_created_by>
-            <sys_created_on>2018-03-15 18:48:44</sys_created_on>
-            <sys_id>e0a70c7e4fb013005b6922788310c7c8</sys_id>
+            <sys_created_on>2018-03-26 18:28:49</sys_created_on>
+            <sys_id>849c68d24fc113005b6922788310c7b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_194111_djinnovat_innovate" sys_domain="global" view="Default view">fea20c3a4fb013005b6922788310c7e7</sys_ui_section>
             <sys_updated_by>Admin</sys_updated_by>
-            <sys_updated_on>2018-03-15 18:48:44</sys_updated_on>
+            <sys_updated_on>2018-03-26 18:28:49</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
